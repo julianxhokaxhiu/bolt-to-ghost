@@ -1,0 +1,11 @@
+{
+  "name": "Bolt-To-Ghost",
+  "author": "Julian Xhokaxhiu <info@julianxhokaxhiu.com>",
+  "description": "Bolt JSONAPI to Ghost JSON Import format",
+  "dependencies": {
+    "unirest": "*",
+    "jsonfile": "*",
+    "minimist": "*",
+    "to-markdown": "*"
+  }
+}
